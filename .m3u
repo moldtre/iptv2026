@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:-1 group-title="All",Moldova 1
+https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/master.m3u8
+#EXTINF:-1 group-title="All",Moldova 2
+https://v0.trm.md/static/streaming-playlists/hls/d5fafab0-9c37-4746-9e7a-b2d6c0427015/master.m3u8
+#EXTINF:-1 group-title="All",TV8 Moldova
+https://tinyurl.com/aleks-u-romki-2/2454/index.m3u8
+#EXTINF:-1 group-title="All",Jurnal TV
+https://tinyurl.com/aleks-u-romki-2/2446/index.m3u8
+#EXTINF:-1 group-title="All",PRO TV Chisinau
+https://tinyurl.com/aleks-u-romki-2/2456/index.m3u8
+#EXTINF:-1 group-title="All",N4
+https://tinyurl.com/aleks-u-romki-2/2460/index.m3u8
+#EXTINF:-1 group-title="All",TVR Moldova
+https://tvr-tvrmoldova.cdn.zitec.com/live/tvrmoldova/main.m3u8
+#EXTINF:-1 group-title="All",Vocea Basarabiei
+https://storage.voceabasarabiei.md/vocea/vocea.m3u8
+#EXTINF:-1 group-title="All",Exclusiv TV
+http://89.28.25.122/hls/tnt_md.m3u8
+#EXTINF:-1 group-title="All",Realitatea Live
+https://realitatealive.md/tv/rlive.m3u8
+#EXTINF:-1 group-title="All",Soroca TV
+http://188.237.212.16:8888/live/cameraFeed.m3u8
+#EXTINF:-1 group-title="All",Privesc eu
+https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8
+#EXTINF:-1 group-title="All",Radio Moldova LIVE
+https://radiolive.trm.md/hls_rma/actualitati.m3u8
+#EXTINF:-1 group-title="All",Busuioc TV
+https://tt.nfthost.net/static/streaming-playlists/hls/bb907ca9-5cb5-49dd-b276-d77721a9bc6d/master.m3u8
+#EXTINF:-1 group-title="All",Tezaur Tv
+http://77.89.221.150/tezaur/index.m3u8
+#EXTINF:-1 tvg-id="SorTV.md" group-title="All",Sor TV (720p)
+http://188.237.212.16:8888/live/cameraFeed.m3u8
+#EXTINF:-1 group-title="All",Chisinau
+http://212.0.215.115/IPcam1/mpegts
+#EXTINF:-1 group-title="All",Cahul
+http://212.0.215.115/IPcam_Cahul/mpegts
+#EXTINF:-1 group-title="All",Balti
+http://212.0.215.115/IPcam_Balti/mpegts
+#EXTINF:-1 group-title="All",Soroca
+http://212.0.215.115/IPcam_Soroca/mpegts
+#EXTINF:-1 group-title="All",Ungheni
+http://212.0.215.115/Unghenilive/mpegts
+#EXTINF:-1 group-title="All",Donduseni
+http://212.0.215.115/Dondusenilive/mpegts
+#EXTINF:-1 group-title="unsorted",Tv nord Balti
+https://6065d3147e895.streamlock.net:4444/npcl/live/playlist.m3u8
+#EXTINF:-1 group-title="unsorted",NTS Moldova
+http://5.56.77.9:50000
+#EXTINF:-1 group-title="unsorted",Viju Premiere
+https://tinyurl.com/aleks-u-romki-2/5079/index.m3u8
+#EXTINF:-1 group-title="unsorted",Viju Comedy
+https://tinyurl.com/aleks-u-romki-2/200/index.m3u8
+#EXTINF:-1 group-title="unsorted",Zoopark
+http://158.101.222.193:88/georgia_play.php?id=zoo
+#EXTINF:-1 group-title="unsorted",Travel and Adventure
+https://tinyurl.com/aleks-u-romki-2/9301/index.m3u8
+#EXTINF:-1 group-title="unsorted",ТV1000
+https://tinyurl.com/aleks-u-romki-2/6387/index.m3u8
+#EXTINF:-1 group-title="unsorted",Viju Megahit
+https://tinyurl.com/aleks-u-romki-2/201/index.m3u8
